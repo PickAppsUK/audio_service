@@ -1,3 +1,7 @@
+## 0.18.19+pickapps.1 (PickAppsUK fork, not published)
+
+* Fix Android notification outliving the session after stop() while the app is open (ryanheise/audio_service#1168, @emil485h).
+
 ## 0.18.19
 
 * Support AGP 9.
